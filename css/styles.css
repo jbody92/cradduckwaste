@@ -1,0 +1,78 @@
+body {
+  color: #f8f1f1;
+}
+
+/* Landing Estate */
+
+.landing-estate {
+  /* background-color: #5eaaa8; */
+  /* background-color: #4a47a3; */
+  background: #e23e57;
+  background: linear-gradient(180deg, #e23e57 50%, #e23e57 100%);
+  padding: 0;
+}
+
+.navbar {
+  padding: 0 30px;
+}
+
+.container-fluid{
+     padding-left: 0;
+     padding-right: 0;
+     margin-left: 0;
+     margin-right: 0;
+   }
+
+.transparent {
+  background-color: rgba(0, 0, 0, 0.7)
+  }
+
+
+.masthead {
+  height: 100vh;
+  min-height: 500px;
+  background-image: url("head-image.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.heading1 {
+  padding: 50px 0 50px 0;
+  font-size: 7rem;
+  font-weight: 800;
+}
+.heading2 {
+  margin-bottom: 6%;
+}
+.head-buttons {
+  margin: 20px;
+}
+.jb-center {
+  margin: 0 auto 0 auto;
+  text-align: center;
+}
+
+
+
+/* Main Body */
+.main-body {
+  background: #e23e57;
+  background: linear-gradient(180deg, #e23e57 50%, #88304e 100%);
+  padding: 2%;
+}
+
+.icon-img {
+  padding: 5% 0;
+  font-size: 4rem;
+}
+
+
+
+
+/*Call To Action */
+.call-to-action {
+  background: #88304e;
+  background: linear-gradient(180deg, #88304e 50%, #522546 100%);
+  padding: 2%;
+}
